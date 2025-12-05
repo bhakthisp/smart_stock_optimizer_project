@@ -1,0 +1,1 @@
+# smart_stock_optimizer_project
